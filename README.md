@@ -3,6 +3,8 @@
 - pthread_join() requires us to pass the thread id of the the thread to wait for. 
 - Semaphore’s sem_wait() and sem_post() doesn’t need any parameter. So it is a better option. 
 
+##### UML Diagram
+![UML Diagram](UML.jpg)
 
 ##### Motivation/Need of Project
 - To Understand → 
