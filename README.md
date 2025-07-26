@@ -4,7 +4,7 @@
 - Semaphore’s sem_wait() and sem_post() doesn’t need any parameter. So it is a better option. 
 
 ##### UML Diagram
-![UML Diagram](UML.jpg)
+![UML Diagram](UML.JPG)
 
 ##### Motivation/Need of Project
 - To Understand → 
